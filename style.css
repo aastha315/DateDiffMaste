@@ -71,3 +71,10 @@ p{
     color: #707070;
     font-weight: 400;
 }
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #c61f1f;
+    /* Add any other styling properties as needed */
+  }
