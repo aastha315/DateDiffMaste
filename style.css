@@ -80,11 +80,6 @@ p{
 }
 
 .footer-text p{
-    font-size: 2.3 rem;
+    font-size: 2.7 rem;
     color: red;
 }
-.footer-text p::before {
-    content: "\2764"; 
-    color: red; 
-    margin-right: 0.5rem; 
-  }
