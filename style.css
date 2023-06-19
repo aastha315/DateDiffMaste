@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(239, 193, 8);
+    background-color: #F6BE00;
 }
 .container{
     width: 40%;
@@ -75,6 +75,9 @@ p{
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #c61f1f;
+    background-color:#1175A8;
+    font-size: 30px;
+    color:#080808
+    /* font : italic small-caps bold 16/2 cursive; */
     /* Add any other styling properties as needed */
   }
