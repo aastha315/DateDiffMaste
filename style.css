@@ -77,9 +77,14 @@ p{
   width: 100%;
   padding: 1.5rem 9%;
   background: black;
-  font-color:red;
 }
 
 .footer-text p{
     font-size: 2.3 rem;
+    color: red;
 }
+.footer-text p::before {
+    content: "\2764"; 
+    color: red; 
+    margin-right: 0.5rem; 
+  }
